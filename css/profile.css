@@ -1,11 +1,11 @@
 /*
 Syntax error: Undefined variable: "$basic-color".
-        on line 4 of /Users/vagner/Desktop/initializr/sass/profile.scss
+        on line 4 of /Users/vagner/Git Repos/teacher-template/sass/profile.scss
 
-1: /Users/vagner/Desktop/initializr/sass/profile.scss
+1: /Users/vagner/Git Repos/teacher-template/sass/profile.scss
 
 Backtrace:
-/Users/vagner/Desktop/initializr/sass/profile.scss:4
+/Users/vagner/Git Repos/teacher-template/sass/profile.scss:4
 /Users/vagner/.rvm/gems/ruby-1.9.3-p385/gems/sass-3.2.5/lib/sass/script/variable.rb:49:in `_perform'
 /Users/vagner/.rvm/gems/ruby-1.9.3-p385/gems/sass-3.2.5/lib/sass/script/node.rb:40:in `perform'
 /Users/vagner/.rvm/gems/ruby-1.9.3-p385/gems/sass-3.2.5/lib/sass/script/funcall.rb:93:in `block in _perform'
@@ -90,4 +90,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Syntax error: Undefined variable: \"$basic-color\".\A         on line 4 of /Users/vagner/Desktop/initializr/sass/profile.scss\A \A 1: /Users/vagner/Desktop/initializr/sass/profile.scss"; }
+  content: "Syntax error: Undefined variable: \"$basic-color\".\A         on line 4 of /Users/vagner/Git Repos/teacher-template/sass/profile.scss\A \A 1: /Users/vagner/Git Repos/teacher-template/sass/profile.scss"; }

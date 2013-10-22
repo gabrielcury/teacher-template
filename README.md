@@ -3,6 +3,9 @@ Teacher Template
 
 A responsive template for an educational system.
 
+- Links
+	- [Login Screen](http://vagnervjs.github.io/teacher-template/)
+	- [Profile Screen](http://vagnervjs.github.io/teacher-template/profile.html)
 
 ##Smartphone View
 
